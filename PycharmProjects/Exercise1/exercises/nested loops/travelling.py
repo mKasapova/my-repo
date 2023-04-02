@@ -3,4 +3,6 @@ while b == True:
     destination = input()
     budget = float(input())
     sum = 0
+
+    count = 0
     
