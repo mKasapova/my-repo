@@ -4,5 +4,4 @@ while b == True:
     budget = float(input())
     sum = 0
 
-    count = 20
     
